@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](./docs/banner.png)
+![banner](./banner.png)
 
 **Git workflow automation CLI for modern development teams.**  
 
